@@ -1,0 +1,5 @@
+<p>The Sunlab cow was created by Tony Monroe in 1999 as 
+                    a part of a command line tool "cowsay" and has become an icon in programming. 
+                    Known for its friendly demeanor, the cow has been widely embraced in the computing.
+                    Even before Lehigh, the cow's simplicity and charm have made it a lasting symbol of
+                    command-line humor.</p>
